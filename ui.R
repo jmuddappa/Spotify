@@ -6,7 +6,7 @@ ui <- fluidPage(
   # Sidebar 
   sidebarLayout(
     sidebarPanel(
-      textInput("username1", "Username","lisashirai"),
+      textInput("username1", "Username",""),
       actionButton("update", "Change"),
       hr(),
       #sliderInput("freq",

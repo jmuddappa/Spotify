@@ -1,0 +1,13 @@
+name: Spotify
+title: Spotify
+username:
+account: jmuddappa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 246673
+bundleId: 1126717
+url: https://jmuddappa.shinyapps.io/Spotify/
+when: 1512942244.34659
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|.gitattributes|README.md|.idea/Swipecard.iml|.idea/modules.xml|.idea/vcs.xml|.idea/workspace.xml
